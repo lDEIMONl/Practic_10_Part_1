@@ -1,0 +1,13 @@
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\bin\Debug\netcoreapp3.1\Practic_10.exe
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\bin\Debug\netcoreapp3.1\Practic_10.deps.json
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\bin\Debug\netcoreapp3.1\Practic_10.runtimeconfig.json
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\bin\Debug\netcoreapp3.1\Practic_10.runtimeconfig.dev.json
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\bin\Debug\netcoreapp3.1\Practic_10.dll
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\bin\Debug\netcoreapp3.1\Practic_10.pdb
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\obj\Debug\netcoreapp3.1\Practic_10.csprojAssemblyReference.cache
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\obj\Debug\netcoreapp3.1\Practic_10.AssemblyInfoInputs.cache
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\obj\Debug\netcoreapp3.1\Practic_10.AssemblyInfo.cs
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\obj\Debug\netcoreapp3.1\Practic_10.csproj.CoreCompileInputs.cache
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\obj\Debug\netcoreapp3.1\Practic_10.dll
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\obj\Debug\netcoreapp3.1\Practic_10.pdb
+C:\Users\VADIM\source\repos\Practic_10\Practic_10\obj\Debug\netcoreapp3.1\Practic_10.genruntimeconfig.cache
